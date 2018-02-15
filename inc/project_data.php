@@ -10,7 +10,7 @@
 	$project_lang =  'en';
 
 	$project_desc_title = 'Check or get your public IP address like a charm'; // will be inserted in <h2> element
-	$project_desc = '<p>The \'My IP\' service displays your public IP address by just visiting this page. In addition the service checks the local addressing if available. The Internet Protocol address (<a href=\'https://en.wikipedia.org/wiki/IP_address\' target=\'_blank\'>IP address</a>) is the numerical reference of your device in the network. The IP address serves two principal functions, host or network interface identification and location addressing.</p>'; // goes into a <p> element
+	$project_desc = 'The \'My IP\' service displays your public IP address by just visiting this page. In addition the service checks the local addressing if available. The Internet Protocol address (<a href=\'https://en.wikipedia.org/wiki/IP_address\' target=\'_blank\'>IP address</a>) is the numerical reference of your device in the network. The IP address serves two principal functions, host or network interface identification and location addressing.'; // goes into a <p> element
 
 	// related scru-services
 	$project_referrals = array(
