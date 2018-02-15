@@ -40,8 +40,8 @@
 
 	// scripts for this project, the order matters
 	$project_scripts = array(
-		'js/vendors/jquery.min.js',			// jquery root dir
-		'js/magic.min.js', 							// javascript project dir
+		// 'js/vendors/jquery.min.js',			// jquery root dir
+		// 'js/magic.min.js', 							// javascript project dir
 	);
 
 ?>
