@@ -1,7 +1,9 @@
 <?php
 
 		// include the domain information from the root dir
+		require '../../inc/browscap.php';
 		require '../../inc/domain.php';
+		require '../../inc/projects.php';
 
 		// include the project_data from the project dir
 		// check this data if you setup a new project
@@ -11,6 +13,7 @@
 		require '../../inc/header.php';
 
 ?>
+
 
 	<!-- scru-service start -->
 
