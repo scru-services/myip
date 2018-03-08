@@ -8,7 +8,7 @@
 
 	$project_subdomain = get_subdomain($projects[$project_id][$project_lang]['slug']);
 
-	$project_desc_title = 'Check or get your public IP address like a charm'; // will be inserted in <h2> element
+	$project_desc_title = 'Get your public IP address like a charm'; // will be inserted in <h2> element
 	$project_desc = 'The What is my IP service displays your public IP address by just visiting this page. In addition the service checks the local addressing if available. The Internet Protocol Address is the numerical reference of your device in the network.'; // goes into a <p> element, no html
 
 	// related scru-services
